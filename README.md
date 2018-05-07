@@ -52,7 +52,7 @@ Project title | Description | Development timeframe | Technologies |
 
 A highly selective 16-week coding bootcamp in Europe.
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
